@@ -11,4 +11,4 @@ G : gate
 snake의 크기가 3 미만 10 초과가 되면 게임이 종료됩니다.
 스테이지는 4단계까지 준비되어 있습니다.
 
-
+영상 : https://www.youtube.com/watch?v=rLEUsmcIyvQ
